@@ -1,4 +1,4 @@
-# 📝 Simple Cryptocurrency ERC 20 Token Template 📝
+# [📝 Simple Cryptocurrency ERC 20 Token Template 📝](https://etherscan.io/token/0x5ab70ade9d30869bdbdc9f9eb71caf3853abb9d1?a=0x73017613f8e551fb3026e8945fa8a499f44aab36#readContract)
 Very Simple **ERC-20 Smart Contract** on the **Ethereum Blockchain**, with many customizable Options to create a **useable Cryptocurrency**. </br>
 ***Ready to deploy Ethereum Smart Contract***
 
