@@ -27,7 +27,7 @@ function Robot(){
 }
 ```
 
-***These are the only attributes you need to change in the smart contract, to customize your Cryptocurrency and then you can already deploy your Smart Contract on the Ethereum Blockchain.*** 💎
+***These are the only attributes you need to change in the Smart Contract, to customize your Cryptocurrency and then you can already deploy your Smart Contract on the Ethereum Blockchain.*** 💎
 
 ## 🖼 Images 🖼
 
