@@ -7,14 +7,24 @@ Very Simple **ERC-20 Smart Contract** on the **Ethereum Blockchain**, with many 
 **The Example Smart Contract is already filled with values, the only thing you need to do is to customize these values with the attributes you want for your Cryptocurrency** look at the ***Example*** below: ⬇️⬇️⬇️
 
 ```
-function Robot(
-        ) {
-        balances[msg.sender] = 100000000000000000000000000; // Give the creator all initial tokens (100000000000000000000000000 for example)
-        totalSupply = 100000000000000000000000000; // Update total supply (100000000000000000000000000 for example)
-        name = "Robot"; // Set the name for display purposes
-        decimals = 18;  // Amount of decimals for display purposes
-        symbol = "RBT"; // Set the symbol for display purposes
-    }
+function Robot(){
+
+        // Give the creator all initial tokens (100000000000000000000000000 for example)
+        balances[msg.sender] = 100000000000000000000000000; 
+        
+        // Update total supply (100000000000000000000000000 for example)
+        totalSupply = 100000000000000000000000000; 
+        
+        // Set the name for display purposes
+        name = "Robot"; 
+        
+        // Amount of decimals for display purposes
+        decimals = 18;  
+        
+        // Set the symbol for display purposes
+        symbol = "RBT"; 
+        
+}
 ```
 
 ***These are the only attributes you need to change in the smart contract, to customize your Cryptocurrency and then you can already deploy your Smart Contract on the Ethereum Blockchain.*** 💎
