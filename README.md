@@ -185,3 +185,5 @@ contract Robot is StandardToken {
     }
 }
 ```
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
